@@ -25,5 +25,5 @@ Cuarto "A"
 
 # imagenes del movil
 
-<img src="/img/data1.jpeg" alt="drawing" width="200"/>
-<img src="/img/data2.jpeg" alt="drawing" width="200"/>
+<img src="/img/date1.jpeg" alt="drawing" width="200"/>
+<img src="/img/date2.jpeg" alt="drawing" width="200"/>
