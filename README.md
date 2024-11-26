@@ -23,8 +23,7 @@ Cuarto "A"
    ```bash
     flutter run -d chrome
 
-
 # imagenes del movil
 
-<img src="/img/data1.jpeg" alt="drawing" width="400"/>
-<img src="/img/data2.jpeg" alt="drawing" width="400"/>
+<img src="/img/data1.jpeg" alt="drawing" width="200"/>
+<img src="/img/data2.jpeg" alt="drawing" width="200"/>
